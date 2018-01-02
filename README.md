@@ -2,7 +2,7 @@
 ## About
 Atomc Designを取り入れたCSSアーキテクチャであるAPBCSS(Atmic Prts Base CSS)を使ったテンプレートです。
 
-##Atomic Designとは
+## Atomic Designとは
 デザイン設計思想の一つで、５つのステージから構成されている
 + Atoms(アトム) - 原子　・・・　それ以上分解できない要素のこと（ボタン、ラベルなど）
 + Molecules(モルキュール) - 分子 ・・・　Atomsを組み合わせたもの（テキストとボタンがついたもの）
@@ -10,7 +10,7 @@ Atomc Designを取り入れたCSSアーキテクチャであるAPBCSS(Atmic Prts
 + Templates(テンプレート) - テンプレート ・・・有機体を組み合わせた要素（モーダルビュー、ナビゲーションメニュー、フッター）
 + Pages(ページ) - ページ　・・・　固有のページ、テンプレートに具体的な画像、文字を入れたもの
 
-##APBCSSとは
+## APBCSSとは
 Atomic Designにおける、これ以上分割することのできない要素Atomsをベースに定義していくCSS設計方法のこと。
 OOCSSとSMACSSを取り入れていて、マルチクラスの使用やbase,pages,partsディレクトリで管理している。
 そして、以下６つのクラスタイプで構成されている
